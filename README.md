@@ -1,4 +1,4 @@
-[HR_Attrition.csv](https://github.com/user-attachments/files/16186547/HR_Attrition.csv)# Human_Resources
+# Human_Resources
 
 ## Introduction
 The Human Resource Dashboard serves as a fundamental tool to evaluate employees performance, track retention rate and reduce attrition. This will allow for HR departments to handle problems and improve customer satisfaction to achieve the company objectives. 
@@ -12,7 +12,7 @@ The Human Resource Dashboard serves as a fundamental tool to evaluate employees 
 - Employee engagement
 
 ## Data Source
-
+[HR_Attrition.csv](https://github.com/user-attachments/files/16186547/HR_Attrition.csv)
 
 ## Tools
 - SQL
@@ -35,3 +35,5 @@ The Human Resource Dashboard serves as a fundamental tool to evaluate employees 
 - Income: Ensure competitve compensation packages to employees based on the industry standards and employee performance metrics.
 - Skill Enhancement: Offering upskilling, professional development, and in-company advancement opportunities can boost employees morale and committment to the company.
 - Satisfaction: Address employees reasons for their dissatisfaction and implement measures to boost their morale and satisfaction.
+
+![Main Dashboard](https://github.com/user-attachments/assets/7cc42c1f-83d7-471f-965c-8ff4c934fd98)
