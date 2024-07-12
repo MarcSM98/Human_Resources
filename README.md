@@ -1,4 +1,4 @@
-# Human_Resources
+[HR_Attrition.csv](https://github.com/user-attachments/files/16186547/HR_Attrition.csv)# Human_Resources
 
 ## Introduction
 The Human Resource Dashboard serves as a fundamental tool to evaluate employees performance, track retention rate and reduce attrition. This will allow for HR departments to handle problems and improve customer satisfaction to achieve the company objectives. 
@@ -12,9 +12,10 @@ The Human Resource Dashboard serves as a fundamental tool to evaluate employees 
 - Employee engagement
 
 ## Data Source
-The dataset provides information such as demographics, job category, location, tenure and others.
+
 
 ## Tools
+- SQL
 - Tableau
 
 ## Insights
@@ -25,8 +26,12 @@ The dataset provides information such as demographics, job category, location, t
 - Majority of the employees hold a Bachelor's degree.
 - Individuals aged 25-34 hold the highest employees among the age group.
 - Survey has shown that scores for enviornment satisfaction, job satisfaction, job involvement, relationship satisfaction, and work life balance converage at the 3-score level.
+- The attrtion trend shows the highest count of 62 on April 2022.
 
 ## Retention Strategies
-- ###Competitive Pay: The company has the stay on top of prevailing wage rates as employees will choose to leave for other organizations for their attractive salary and benefits.
+- Competitive Pay: The company has the stay on top of prevailing wage rates as employees will choose to leave for other organizations for their attractive salary and benefits.
 - Benefits: The company can offer great benefits such as health insurance, paid time off, company equity to reduce employees retention.
-- 
+- Gender: By introducing gender-inclusion policies and programs to foster equality and inclusvity.
+- Income: Ensure competitve compensation packages to employees based on the industry standards and employee performance metrics.
+- Skill Enhancement: Offering upskilling, professional development, and in-company advancement opportunities can boost employees morale and committment to the company.
+- Satisfaction: Address employees reasons for their dissatisfaction and implement measures to boost their morale and satisfaction.
