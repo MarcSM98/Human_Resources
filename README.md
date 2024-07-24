@@ -1,4 +1,4 @@
-# Human_Resources
+# Human Resources Dashboard
 
 ## Introduction
 The Human Resource Dashboard serves as a fundamental tool to evaluate employees performance, track retention rate and reduce attrition. This will allow for HR departments to handle problems and improve customer satisfaction to achieve the company objectives. 
@@ -37,3 +37,5 @@ The Human Resource Dashboard serves as a fundamental tool to evaluate employees 
 - Satisfaction: Address employees reasons for their dissatisfaction and implement measures to boost their morale and satisfaction.
 
 ![Main Dashboard](https://github.com/user-attachments/assets/7cc42c1f-83d7-471f-965c-8ff4c934fd98)
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/marcus.sim2726/vizzes)
